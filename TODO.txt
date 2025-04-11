@@ -1,0 +1,8 @@
+how much ingredients,
+profiles and favourite recipes,
+recipe created by: ___,
+recipe date created,
+video,
+upload images.
+add not ingredient, but something else: "1. zmes", for example: "$b$1. zmes$"
+add 
